@@ -24,7 +24,7 @@ name: PROJECT_NAME
 
 ### Copy .env.example to .env with the URL of your project
 ```
-WP_HOME=https://bedrock.lndo.site
+WP_HOME=https://PROJECT_NAME.lndo.site
 ```
 
 #### IMPORTANT
