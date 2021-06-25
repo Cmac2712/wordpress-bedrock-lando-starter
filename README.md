@@ -1,4 +1,5 @@
 # Wordpress Bedrock with Lando Starter
+This is a starter repo for creating a project with Lando 3 and Bedrock
 
 ## Install Requirements
 Docker (if you don't already have it)
