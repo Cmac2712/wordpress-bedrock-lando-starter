@@ -41,3 +41,8 @@ Update dependencies inside your container with:
 ```
 lando composer update
 ```
+
+## Get DB and site info
+```
+lando start
+```
