@@ -7,15 +7,12 @@ Docker (if you don't already have it)
 Lando
 * https://docs.lando.dev/basics/installation.html
 
-
 ### Download this repo
-
 ```
 git clone git@bitbucket.org:IconInc/wordpress-bedrock-lando-starter.git
 ```
 
 ### Remove .git 
-
 ```
 git remote remove origin
 ```
@@ -37,6 +34,8 @@ If you want to use a URL other than ``*.lndo.site`` who will have to add ``127.0
 ```
 lando start
 ```
+
+Almost there&hellip; 
 
 Update dependencies inside your container with:
 ```
