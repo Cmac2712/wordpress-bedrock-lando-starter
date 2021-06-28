@@ -18,9 +18,13 @@ git clone https://github.com/Cmac2712/wordpress-bedrock-lando-starter.git
 git remote remove origin
 ```
 
-### Copy .lando.yml.example to .lando.yml and edit  with the name of your project
+### Copy .lando.yml.example to .lando.yml and edit the name and URL of your project
 ```
 name: PROJECT_NAME
+recipe: wordpress
+proxy:
+  appserver_nginx:
+    - PROJECT_URL
 ```
 
 ### Copy .env.example to .env with the URL of your project
