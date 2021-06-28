@@ -45,5 +45,5 @@ lando composer update
 
 ## Get DB and site info
 ```
-lando start
+lando info
 ```
