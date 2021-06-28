@@ -36,13 +36,6 @@ If you want to use a URL other than ``*.lndo.site`` who will have to add ``127.0
 lando start
 ```
 
-Almost there&hellip; 
-
-Update dependencies inside your container with:
-```
-lando composer update
-```
-
 ## Get DB and site info
 ```
 lando info

@@ -1,4 +1,4 @@
-name: bedrock
+name: example
 recipe: wordpress
 proxy:                
   appserver_nginx:
@@ -9,3 +9,6 @@ config:
   webroot: web
   database: mariadb
   xdebug: true
+events:
+  post-start:
+    - appserver: composer update
