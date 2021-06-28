@@ -10,7 +10,7 @@ Lando
 
 ### Download this repo
 ```
-git clone git@bitbucket.org:IconInc/wordpress-bedrock-lando-starter.git
+git clone https://github.com/Cmac2712/wordpress-bedrock-lando-starter.git
 ```
 
 ### Remove .git 
