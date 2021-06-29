@@ -30,6 +30,7 @@ proxy:
 ### Copy .env.example to .env with the URL of your project
 ```
 WP_HOME=https://PROJECT_NAME.lndo.site
+WP_SITEURL=https://PROJECT_NAME.lndo.site/wp
 ```
 
 #### IMPORTANT
